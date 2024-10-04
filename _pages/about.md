@@ -31,8 +31,8 @@ My research interest includes differential privacy, and its application in gener
 <div class='paper-box-text' markdown="1"> -->
 
 [Influence maximization in social networks] X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -51,7 +51,7 @@ My research interest includes differential privacy, and its application in gener
 
 # 📖 Educations
 - *2024.09 - (now)*, University of Virginia 
-- *2020.09 - 2021.08 *, University of Edinburgh 
+- *2020.09 - 2021.08*, University of Edinburgh 
 - *2016.09 - 2020.06*, Zhejiang Univerisity
 
 <!-- # 💬 Invited Talks
