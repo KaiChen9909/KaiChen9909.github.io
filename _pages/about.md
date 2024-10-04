@@ -27,8 +27,8 @@ My research interest includes differential privacy, and its application in gener
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [Influence maximization in social networks] X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
 </div>
