@@ -33,9 +33,7 @@ I actively welcome any collaborators. If you are interested in differential priv
 
 <div class='paper-box-text' markdown="1"> 
 
-[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P) 
-
-X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
+[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P), X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
 </div>
 
 
