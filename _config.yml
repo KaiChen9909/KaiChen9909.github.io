@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kai Chen"
-  avatar           : "images/homepage_pic.jpg"
+  avatar           : "images/homepage_pic.png"
   bio              : ""
   location         : "Charlottesville, VA"
   employer         :
