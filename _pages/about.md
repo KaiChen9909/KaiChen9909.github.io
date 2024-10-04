@@ -29,12 +29,17 @@ I actively welcome any collaborators. If you are interested in differential priv
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 
-[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P) X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
-<!-- </div>
-</div> -->
+<div class='paper-box-text' markdown="1"> 
+
+[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P) 
+
+X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
+</div>
+
+
+<!--</div> -->
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
