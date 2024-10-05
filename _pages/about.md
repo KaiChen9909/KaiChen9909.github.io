@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Kai Chen, a first year PhD student of University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I worked as a Data Scientist at ByteDance.
+I am Kai Chen, a first-year PhD student at University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I worked as a Data Scientist at ByteDance.
 
 My research interest includes differential privacy, and its application in generative model. 
 
