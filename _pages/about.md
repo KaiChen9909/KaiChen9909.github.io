@@ -23,7 +23,7 @@ My research interest includes differential privacy, and its application in gener
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One of our work `Benchmarking Differentially Private Tabular Data Synthesis` is accepted to SIGMOD 2026. 
+- *2025.08*: &nbsp;🎉🎉 One of our work *Benchmarking Differentially Private Tabular Data Synthesis* is accepted to SIGMOD 2026. 
 - *2024.08*: &nbsp; I start my research in the University of Virginia, under the supervision of Dr. Tianhao Wang.
 
 # 📝 Publications 
