@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Kai Chen, a first-year PhD student at University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I worked as a Data Scientist at ByteDance.
+I am Kai Chen, a first-year PhD student at University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I worked as a Data Analyst at ByteDance.
 
-My research interest includes differential privacy, and its application in generative model. 
-
-I actively welcome any collaborators. If you are interested in differential privacy and its applications in data generation, please don't hesitate to contact me.
+My research interest includes differential privacy, and its application in generative model. I actively welcome any collaborators. If you are interested in differential privacy and its applications in data generation, please don't hesitate to contact me.
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I start my research in the University of Virginia, under the supervision of Dr. Tianhao Wang.
+- *2025.08*: &nbsp;🎉🎉 One of our work `Benchmarking Differentially Private Tabular Data Synthesis` is accepted to SIGMOD 2026. 
+- *2024.08*: &nbsp; I start my research in the University of Virginia, under the supervision of Dr. Tianhao Wang.
 
 # 📝 Publications 
 
@@ -33,7 +32,9 @@ I actively welcome any collaborators. If you are interested in differential priv
 
 <div class='paper-box-text' markdown="1"> 
 
-[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P), X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE2022
+[Benchmarking Differentially Private Tabular Data Synthesis](https://arxiv.org/pdf/2504.14061), **K Chen**, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026
+
+[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P), X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE 2022
 </div>
 
 
