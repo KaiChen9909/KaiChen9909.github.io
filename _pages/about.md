@@ -26,6 +26,13 @@ My research interest includes differential privacy, and its application in gener
 - *2025.08*: &nbsp;🎉🎉 One of our work *Benchmarking Differentially Private Tabular Data Synthesis* is accepted to SIGMOD 2026. 
 - *2024.08*: &nbsp; I start my research in the University of Virginia, under the supervision of Dr. Tianhao Wang.
 
+
+# 📖 Educations
+- *2024.09 - (now)*, University of Virginia 
+- *2020.09 - 2021.08*, University of Edinburgh 
+- *2016.09 - 2020.06*, Zhejiang Univerisity
+
+
 # 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
@@ -34,6 +41,7 @@ My research interest includes differential privacy, and its application in gener
 
 
 **Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis**
+
 *__K Chen__, C Gong, T Wang, Arxiv Preprint*
 
 [Paper](https://arxiv.org/pdf/2511.13893){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/margnet){: .btn .btn--secondary}
@@ -43,6 +51,7 @@ My research interest includes differential privacy, and its application in gener
 ---
 
 **Benchmarking Differentially Private Tabular Data Synthesis**
+
 *__K Chen__, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026*
 
 [Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--secondary}
@@ -52,6 +61,7 @@ My research interest includes differential privacy, and its application in gener
 ---
 
 **Maximizing Time-aware Welfare for Mixed Items**
+
 *X Miao, H Peng, __K Chen__, Y Peng, Y Gao, J Yin, ICDE 2022*
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P){: .btn .btn--secondary} 
@@ -78,14 +88,16 @@ My research interest includes differential privacy, and its application in gener
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2024.09 - (now)*, University of Virginia 
-- *2020.09 - 2021.08*, University of Edinburgh 
-- *2016.09 - 2020.06*, Zhejiang Univerisity
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📚 Service
+- Reviewer @TDSC 2025
+- Reviewer @VLDB Journal 2025
+- Artifact Reviwer @SIGMOD 2025
+
 
 <!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> 
+
+<!-- # 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
