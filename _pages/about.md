@@ -38,7 +38,7 @@ My research interest includes differential privacy, and its application in gener
 
 [Paper](https://arxiv.org/pdf/2511.13893){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/margnet){: .btn .btn--secondary}
 
-![Margnet](images/margnet.png){: style="max-width: 100%; max-height: 350px; height: auto; margin-top: 10px; display: block;"}
+![Margnet](images/margnet.png){: style="height: 150px; width: auto; margin-top: 10px; display: block;"}
 
 ---
 
@@ -47,7 +47,7 @@ My research interest includes differential privacy, and its application in gener
 
 [Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--secondary}
 
-![Benchmarking DP Tabular](images/dp_tabular_bench.png){: style="max-width: 100%; max-height: 350px; height: auto; margin-top: 10px; display: block;"}
+![Benchmarking DP Tabular](images/dp_tabular_bench.png){: style="height: 150px; width: auto; margin-top: 10px; display: block;"}
 
 ---
 
