@@ -26,15 +26,28 @@ My research interest includes differential privacy, and its application in gener
 - *2025.08*: &nbsp;🎉🎉 One of our work *Benchmarking Differentially Private Tabular Data Synthesis* is accepted to SIGMOD 2026. 
 - *2024.08*: &nbsp; I start my research in the University of Virginia, under the supervision of Dr. Tianhao Wang.
 
-# 📝 Publications 
+# 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 
-<div class='paper-box-text' markdown="1"> 
+<div class='paper-box-text' markdown="1">
 
-[Benchmarking Differentially Private Tabular Data Synthesis](https://arxiv.org/pdf/2504.14061), **K Chen**, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026
+**Benchmarking Differentially Private Tabular Data Synthesis**
+**K Chen**, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026
 
-[Maximizing Time-aware Welfare for Mixed Items](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P), X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE 2022
+[Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--primary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--info}
+
+![Benchmarking DP Tabular](images/dp_tabular_bench.png){: style="max-width: 100%; height: auto; margin-top: 10px;"}
+
+---
+
+**Maximizing Time-aware Welfare for Mixed Items**
+X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE 2022
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P){: .btn .btn--primary} 
+
+<!-- ![Time-aware Welfare](images/time_aware_welfare.png){: style="max-width: 100%; height: auto; margin-top: 10px;"} -->
+
 </div>
 
 
