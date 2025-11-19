@@ -32,19 +32,29 @@ My research interest includes differential privacy, and its application in gener
 
 <div class='paper-box-text' markdown="1">
 
+
+**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis**
+*__K Chen__, C Gong, T Wang, Arxiv Preprint*
+
+[Paper](https://arxiv.org/pdf/2511.13893){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/margnet){: .btn .btn--secondary}
+
+![Margnet](images/margnet.png){: style="max-width: 100%; max-height: 350px; height: auto; margin-top: 10px; display: block;"}
+
+---
+
 **Benchmarking Differentially Private Tabular Data Synthesis**
-**K Chen**, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026
+*__K Chen__, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026*
 
-[Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--primary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--info}
+[Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--secondary}
 
-![Benchmarking DP Tabular](images/dp_tabular_bench.png){: style="max-width: 100%; height: auto; margin-top: 10px;"}
+![Benchmarking DP Tabular](images/dp_tabular_bench.png){: style="max-width: 100%; max-height: 350px; height: auto; margin-top: 10px; display: block;"}
 
 ---
 
 **Maximizing Time-aware Welfare for Mixed Items**
-X Miao, H Peng, **K Chen**, Y Peng, Y Gao, J Yin, ICDE 2022
+*X Miao, H Peng, __K Chen__, Y Peng, Y Gao, J Yin, ICDE 2022*
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P){: .btn .btn--primary} 
+[Paper](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P){: .btn .btn--secondary} 
 
 <!-- ![Time-aware Welfare](images/time_aware_welfare.png){: style="max-width: 100%; height: auto; margin-top: 10px;"} -->
 
