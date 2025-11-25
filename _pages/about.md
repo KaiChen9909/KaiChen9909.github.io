@@ -41,7 +41,7 @@ My research interest includes differential privacy, and its application in gener
 <div class='paper-box-text' markdown="1">
 
 
-**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis (Arxiv Preprint)**
+**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis (ArXiv Preprint)**
 
 *__K Chen__, C Gong, T Wang*
 
