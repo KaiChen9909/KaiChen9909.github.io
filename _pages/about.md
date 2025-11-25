@@ -40,9 +40,9 @@ My research interest includes differential privacy, and its application in gener
 <div class='paper-box-text' markdown="1">
 
 
-**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis**
+**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis (Arxiv Preprint)**
 
-*__K Chen__, C Gong, T Wang, Arxiv Preprint*
+*__K Chen__, C Gong, T Wang*
 
 [Paper](https://arxiv.org/pdf/2511.13893){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/margnet){: .btn .btn--secondary}
 
@@ -50,13 +50,10 @@ My research interest includes differential privacy, and its application in gener
 
 ---
 
-**Benchmarking Differentially Private Tabular Data Synthesis**
+**Benchmarking Differentially Private Tabular Data Synthesis (SIGMOD 2026; ICLR Workshop 2025)**
 
-<!-- **Benchmarking Differentially Private Tabular Data Synthesis Algorithms (ICLR Workshop)** -->
+*__K Chen__, X Li, C Gong, R McKenna, T Wang*
 
-*__K Chen__, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026*
-
-*This work is also accepted to ICLR Workshop 2025*
 
 [Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--secondary} [Workshop Paper](https://openreview.net/pdf?id=0bvWk1HuJC){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--secondary}
 
@@ -64,9 +61,9 @@ My research interest includes differential privacy, and its application in gener
 
 ---
 
-**Maximizing Time-aware Welfare for Mixed Items**
+**Maximizing Time-aware Welfare for Mixed Items (ICDE 2022)**
 
-*X Miao, H Peng, __K Chen__, Y Peng, Y Gao, J Yin, ICDE 2022*
+*X Miao, H Peng, __K Chen__, Y Peng, Y Gao, J Yin*
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P){: .btn .btn--secondary} 
 
