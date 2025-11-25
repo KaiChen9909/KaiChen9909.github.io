@@ -52,9 +52,11 @@ My research interest includes differential privacy, and its application in gener
 
 **Benchmarking Differentially Private Tabular Data Synthesis**
 
+**Benchmarking Differentially Private Tabular Data Synthesis Algorithms (ICLR Workshop)**
+
 *__K Chen__, X Li, C Gong, R McKenna, T Wang, SIGMOD 2026*
 
-[Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--secondary}
+[Paper](https://arxiv.org/pdf/2504.14061){: .btn .btn--secondary} [Workshop Paper](https://openreview.net/pdf?id=0bvWk1HuJC){: .btn .btn--secondary} [Code](https://github.com/KaiChen9909/tab_bench){: .btn .btn--secondary}
 
 ![Benchmarking DP Tabular](images/dp_tabular_bench.png){: style="height: 150px; width: auto; margin-top: 10px; display: block;"}
 
