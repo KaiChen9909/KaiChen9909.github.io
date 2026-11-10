@@ -19,7 +19,7 @@ redirect_from:
 
 I am Kai Chen, a third-year PhD student in Computer Science at the University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I spent about one and a half years working at ByteDance as a Data Analyst. In 2026, I was a Student Researcher at Google Research.
 
-My research interests include **differential privacy**, **data synthesis** (tabular / image / text generation), **generative AI**, **machine learning algorithms**, and **AI security**. I actively welcome any collaborators. If you are interested in differential privacy and its applications in data generation, please don't hesitate to contact me.
+My research interests include **differential privacy**, **generative AI**, and **AI security**. I actively welcome any collaborators. If you are interested in differential privacy and its applications in data generation, please don't hesitate to contact me.
 
 
 # 🔥 News
