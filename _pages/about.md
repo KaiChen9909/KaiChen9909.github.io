@@ -83,17 +83,23 @@ My research interests include **differential privacy**, **data synthesis** (tabu
 
 *__K Chen__, G Ni, A Cheu, K Fawaz, Y Hu, R McKenna, P Kairouz*
 
+[Paper](https://arxiv.org/pdf/2610.21048){: .btn .btn--secondary}
+
 ---
 
 **Differentially Private Paired Table-Image Multimodal Synthesis**
 
 *__K Chen__, J Lamp, S Jha, T Wang*
 
+[Paper](https://arxiv.org/pdf/2609.00708){: .btn .btn--secondary}
+
 ---
 
 **MRMMIA: Membership Inference Attacks on Memory in Chat Agents**
 
 *__K Chen__, Y Pang, T Wang*
+
+[Paper](https://arxiv.org/pdf/2605.27825){: .btn .btn--secondary}
 
 </div>
 
