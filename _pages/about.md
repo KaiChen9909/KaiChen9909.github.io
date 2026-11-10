@@ -43,6 +43,30 @@ My research interests include **differential privacy**, **data synthesis** (tabu
 <div class='paper-box-text' markdown="1">
 
 
+**SHIP: Structured and Hierarchical Insight with Privacy (ArXiv Preprint)**
+
+*__K Chen__, G Ni, A Cheu, K Fawaz, Y Hu, R McKenna, P Kairouz*
+
+[Paper](https://arxiv.org/pdf/2610.21048){: .btn .btn--secondary}
+
+---
+
+**Differentially Private Paired Table-Image Multimodal Synthesis (ArXiv Preprint)**
+
+*__K Chen__, J Lamp, S Jha, T Wang*
+
+[Paper](https://arxiv.org/pdf/2609.00708){: .btn .btn--secondary}
+
+---
+
+**MRMMIA: Membership Inference Attacks on Memory in Chat Agents (ArXiv Preprint)**
+
+*__K Chen__, Y Pang, T Wang*
+
+[Paper](https://arxiv.org/pdf/2605.27825){: .btn .btn--secondary}
+
+---
+
 **Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis (CCS 2026)**
 
 *__K Chen__, C Gong, T Wang*
@@ -71,35 +95,6 @@ My research interests include **differential privacy**, **data synthesis** (tabu
 [Paper](https://ieeexplore.ieee.org/abstract/document/9835641?casa_token=GK0tzyFKndkAAAAA:7v1OnnN9ngAmBrQdfkdgBNT3-IraIewezXFWum-X1H1DBJukdjxzUY4moZBpMpWFhHuwga8P){: .btn .btn--secondary} 
 
 <!-- ![Time-aware Welfare](images/time_aware_welfare.png){: style="max-width: 100%; height: auto; margin-top: 10px;"} -->
-
-</div>
-
-
-## Preprints
-
-<div class='paper-box-text' markdown="1">
-
-**SHIP: Structured and Hierarchical Insight with Privacy**
-
-*__K Chen__, G Ni, A Cheu, K Fawaz, Y Hu, R McKenna, P Kairouz*
-
-[Paper](https://arxiv.org/pdf/2610.21048){: .btn .btn--secondary}
-
----
-
-**Differentially Private Paired Table-Image Multimodal Synthesis**
-
-*__K Chen__, J Lamp, S Jha, T Wang*
-
-[Paper](https://arxiv.org/pdf/2609.00708){: .btn .btn--secondary}
-
----
-
-**MRMMIA: Membership Inference Attacks on Memory in Chat Agents**
-
-*__K Chen__, Y Pang, T Wang*
-
-[Paper](https://arxiv.org/pdf/2605.27825){: .btn .btn--secondary}
 
 </div>
 
