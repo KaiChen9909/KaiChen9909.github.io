@@ -17,19 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Kai Chen, a second-year PhD candidate at the University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I spent two years working at ByteDance as a Data Analyst. My research interest includes differential privacy and its application in generative models. I actively welcome any collaborators. If you are interested in differential privacy and its applications in data generation, please don't hesitate to contact me.
+I am Kai Chen, a third-year PhD student in Computer Science at the University of Virginia, advised by Dr. Tianhao Wang. I obtained my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University, and earned a double major in Finance. I received my Master's degree in Statistics with Data Science from the University of Edinburgh. Before starting my PhD studies, I spent about one and a half years working at ByteDance as a Data Analyst. In 2026, I was a Student Researcher at Google Research.
+
+My research interests include **differential privacy**, **data synthesis** (tabular / image / text generation), **generative AI**, **machine learning algorithms**, and **AI security**. I actively welcome any collaborators. If you are interested in differential privacy and its applications in data generation, please don't hesitate to contact me.
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our work *Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis* is accepted to CCS 2026.
+- *2026.05*: &nbsp; I join Google Research (Seattle) as a Student Researcher, leading a project on differentially private data insights.
 - *2025.08*: &nbsp;🎉🎉 Our work *Benchmarking Differentially Private Tabular Data Synthesis* is accepted to SIGMOD 2026. 
 - *2025.04*: &nbsp;🎉🎉 Our work *Benchmarking Differentially Private Tabular Data Synthesis* is presented at ICLR Workshop 2025. 
 - *2024.08*: &nbsp; I start my research in the University of Virginia, under the supervision of Dr. Tianhao Wang.
 
 
 # 📖 Educations
-- *2024.09 - (now)*, University of Virginia 
-- *2020.09 - 2021.08*, University of Edinburgh 
-- *2016.09 - 2020.06*, Zhejiang Univerisity
+- *2024.08 - (now)*, Ph.D. in Computer Science, University of Virginia
+- *2020.09 - 2021.08*, M.S. in Statistics with Data Science, University of Edinburgh
+- *2016.09 - 2020.06*, B.S. in Mathematics and Applied Mathematics & B.S. in Finance, Zhejiang University
 
 
 # 📝 Publications
@@ -39,7 +43,7 @@ I am Kai Chen, a second-year PhD candidate at the University of Virginia, advise
 <div class='paper-box-text' markdown="1">
 
 
-**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis (ArXiv Preprint)**
+**Beyond One-Size-Fits-All: Neural Networks for Differentially Private Tabular Data Synthesis (CCS 2026)**
 
 *__K Chen__, C Gong, T Wang*
 
@@ -71,6 +75,32 @@ I am Kai Chen, a second-year PhD candidate at the University of Virginia, advise
 </div>
 
 
+## Preprints
+
+<div class='paper-box-text' markdown="1">
+
+**SHIP: Structured and Hierarchical Insight with Privacy**
+
+*__K Chen__, G Ni, A Cheu, K Fawaz, Y Hu, R McKenna, P Kairouz*
+
+---
+
+**Differentially Private Paired Table-Image Multimodal Synthesis**
+
+*__K Chen__, J Lamp, S Jha, T Wang*
+
+---
+
+**MRMMIA: Membership Inference Attacks on Memory in Chat Agents**
+
+*__K Chen__, Y Pang, T Wang*
+
+</div>
+
+
+# 💻 Experience
+- *2026.05 - 2026.09*, **Student Researcher**, Google Research, Seattle, US. Led the private data insight project (SHIP).
+- *2021.12 - 2023.05*, **Data Analyst**, ByteDance, Shanghai, China. Douyin relation & privacy group.
 
 
 # 📚 Service
@@ -78,9 +108,6 @@ I am Kai Chen, a second-year PhD candidate at the University of Virginia, advise
 - Reviewer @VLDB Journal 2025
 - Artifact Reviewer @SIGMOD 2025
 
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> 
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
